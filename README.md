@@ -1,9 +1,10 @@
 # The ToDo List
 ###### Simple Flask To Do List
+###### Life Version [ToDo List] https://manifest-shade-274413.ew.r.appspot.com/
 _______________________________________________________________________
 
 ###### How to install repository and run locally:
-1. Clone repo: git clone ...
+1. Clone repo: git clone https://github.com/VladyslavHnatchenko/g-todo.git
 2. Go to folder: cd g_todo
 3. Run on terminal/bash: python3 -m pip install --user --upgrade pip
 4. Run on terminal/bash: python3 -m pip install --user virtualenv
