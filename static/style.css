@@ -1,0 +1,29 @@
+html {
+	font-family: 'Righteous', cursive;
+	color: black;
+	background-color: black;
+	text-align: center;
+}
+
+h1, h2 {
+    font-family: 'Righteous', cursive;
+	text-align: center;
+}
+
+li, ul, input {
+    font-family: 'Righteous', cursive;
+	font-size: 18px;
+	line-height: 2;
+	letter-spacing: 1px;
+	text-align: center;
+}
+
+body {
+    font-family: 'Righteous', cursive;
+	width: 600px;
+	margin: 0 auto;
+	background-color: grey;
+	padding: 20px 20px 20px 20px;
+	border: 5px solid black;
+	text-align: center;
+}
