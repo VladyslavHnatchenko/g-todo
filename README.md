@@ -1,4 +1,4 @@
-# The ToDo List
+# ToDo List
 ###### Simple Flask To Do List
 ###### Life Version [ToDo List](https://manifest-shade-274413.ew.r.appspot.com/)
 _______________________________________________________________________
