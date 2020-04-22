@@ -11,8 +11,7 @@ _______________________________________________________________________
 5. Install virtualenv: python3 -m venv env
 6. Activate virtualenv: source env/bin/activate
 7. Install all libraries: pip install -r requirements.txt
-8. Export your Cognite API-KEY: export COGNITE_API_KEY='insert your api key here'
-9. Run locally with uwsgi: python3 main.py
+6. Run locally: python3 main.py
 _______________________________________________________________________
 
 ###### How to Deploy On App Engine:
