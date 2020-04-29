@@ -11,7 +11,7 @@ _______________________________________________________________________
 5. Install virtualenv: python3 -m venv env
 6. Activate virtualenv: source env/bin/activate
 7. Install all libraries: pip install -r requirements.txt
-8. 
+8. Run on terminal/bash: gcloud auth login <with your credentials>
 9. Run locally: python3 main.py 
 _______________________________________________________________________
 
